@@ -112,13 +112,13 @@
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
-* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html) :worried:
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details) :worried:
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details) :worried:
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
+* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html) :worried:
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
 [返回目录](#目录)
@@ -155,7 +155,7 @@
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) :worried:
-* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html) :worried:
 
 [返回目录](#目录)
 
@@ -220,7 +220,7 @@
 
 ## PostgreSQL
 
-* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html)
+* [PostgreSQL 8.2.3 中文文档](http://works.jinbuguo.com/postgresql/menu823/index.html) :worried:
 * [PostgreSQL 9.3.1 中文文档](http://www.postgres.cn/docs/9.3/index.html)
 * [PostgreSQL 9.5.3 中文文档](http://www.postgres.cn/docs/9.5/index.html)
 
@@ -228,7 +228,7 @@
 
 ## MySQL
 
-* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html) :worried:
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
 
 [返回目录](#目录)
@@ -312,7 +312,7 @@
 * [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining) :worried:
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd) :worried:
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
-* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/) :worried:
 
 [返回目录](#目录)
 
@@ -345,6 +345,7 @@
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [系统重构与迁移指南](https://github.com/phodal/migration)
+* [深入理解计算机系统](https://github.com/Exely/CSAPP-Labs)
 
 [返回目录](#目录)
 
@@ -353,7 +354,7 @@
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html) :worried:
 * Google Material Design 正體中文版 ([译本一](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) [译本二](https://github.com/1sters/material_design_zh))
 * [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
-* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) :worried:
 * [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/) :worried:
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
@@ -622,6 +623,7 @@
     * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * TypeScipt
     * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/) :worried:
+    * [TypeScript 从入门到精通](https://blog.csdn.net/Aria_Miazzy/article/details/148062762)
 * ExtJS
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
@@ -630,7 +632,10 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/) :worried:
 * VueJS
     * [逐行剖析 Vue.js 源码](https://nlrx-wjc.github.io/Learn-Vue-Source-Code/)
+    * [Vue.js从零到项目实战](https://blog.csdn.net/Aria_Miazzy/article/details/148766546)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950) :worried:
+* Three.js
+    * [Three.js开发](https://blog.csdn.net/Aria_Miazzy/article/details/147956585)
 
 ## Kotlin
 * [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/) 
